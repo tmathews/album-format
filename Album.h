@@ -2,9 +2,6 @@
 //  Album.h
 //  ComicFormat
 //
-//  Created by Thomas Mathews on 11-04-30.
-//  Copyright 2011 Interactive TM. All rights reserved.
-//
 
 #include <stdio.h>
 #include <string.h>
